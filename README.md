@@ -7,8 +7,8 @@ TODO
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Smartini**](https://github.com/r94o/smartini)           | Cocktail recipe finder  | MongoDB, Express, React, Node, Cypress, Jest, MaterialUI |
-| [**Koala**](https://github.com/r94o/Koala) | A Facebook Clone | MongoDB, Express, Handlebars, Node, Cypress, Jest              |
-| [**MakersBnB**](https://github.com/r94o/MakersBnB) | An AirBnB Clone | PostgreSQL, Sinatra, ERB             |
+| [**Koala**](https://github.com/r94o/Koala) | Facebook Clone | MongoDB, Express, Handlebars, Node, Cypress, Jest              |
+| [**MakersBnB**](https://github.com/r94o/MakersBnB) | AirBnB Clone | PostgreSQL, Sinatra, ERB             |
 
 ## Work Experience
 
