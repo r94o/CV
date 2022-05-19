@@ -8,7 +8,7 @@ In my own time I learnt how to automate parts of my job and my interest spiralle
 
 I have now graduated and have learnt more than I ever could imagine. I can't wait to put my knowledge into practice and make a difference within a company from day 1.
 
-I believe the best way to learn is independant research, asking questions and simply getting involved. I care about **how and why** things work rather than simply that it works. I have a drive to succeed and to produce the best work I can.
+I believe the best way to learn is independent research, asking questions and simply getting involved. I care about **how and why** things work rather than simply that it works. I have a drive to succeed and to produce the best work I can.
 
 What excites me about this industry is that it is constantly evolving. There are endless routes you can take there is no limit to how much you can learn. I value the openness to sharing knowledge and this is something I definitely want to be a part of.
 
