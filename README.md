@@ -72,10 +72,6 @@ TODO
 
 ## Hobbies
 
-Cooking
+I have started my collection of Hue Bulbs and am currently learning about Home Automation with Home Assistant.
 
-Tennis
-
-Golf
-
-Home Automation with Home Assistant
+I enjoy cooking, pub quizzes and sports (mainly tennis & golf).
