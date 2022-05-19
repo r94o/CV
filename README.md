@@ -15,12 +15,12 @@ What excites me about this industry is that it is constantly evolving. There are
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Smartini**](https://github.com/r94o/smartini)           | Cocktail recipe finder  | MongoDB, Express, React, Node, Cypress, Jest, MaterialUI |
-| [**Koala**](https://github.com/r94o/Koala) | Facebook Clone | MongoDB, Express, Handlebars, Node, Cypress, Jest              |
-| [**MakersBnB**](https://github.com/r94o/MakersBnB) | AirBnB Clone | PostgreSQL, Sinatra, ERB             |
-
+| Project Name       | Links                           | Description                                                  | Tech/Tools Used                                          |
+|--------------------|---------------------------------|--------------------------------------------------------------|----------------------------------------------------------|
+| Algorithm Analysis (WIP) | Github Repo | Visual representation of time complexity of algorithms (WIP) | MongoDB, Express, React, Node, Cypress, Jest |
+| Smartini           | Live Demo - Heroku  Github Repo | Cocktail Recipe Finder                                       | MongoDB, Express, React, Node, Cypress, Jest, MaterialUI |
+| Koala              | Live Demo - Heroku  Github Repo | Facebook Clone                                               | MongoDB, Express, Handlebars, Node, Cypress, Jest        |
+| MakersBnB          | Github Repo | AirBnB Clone                                                 | PostgreSQL, Sinatra, ERB                                 |
 ## Work Experience
 
 **Control Energy Costs** (April-2016 to February-2022)  
