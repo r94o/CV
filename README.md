@@ -17,7 +17,7 @@ What excites me about this industry is that it is constantly evolving. There are
 
 | Project Name       | Links                           | Description                                                  | Tech/Tools Used                                          |
 |--------------------|---------------------------------|--------------------------------------------------------------|----------------------------------------------------------|
-| Algorithm Analysis (WIP) | [Github Repo](https://github.com/r94o/algorithm-complexity) | Visual representation of time complexity of algorithms (WIP) | MongoDB, Express, React, Node, Cypress, Jest |
+| Algorithm Analysis (WIP) | [Github Repo](https://github.com/r94o/algorithm-complexity) | Visual representation for time complexity of algorithms (WIP) | MongoDB, Express, React, Node, Cypress, Jest |
 | Smartini           | [Live Demo - Heroku](https://smartini-makers.herokuapp.com/)  [Github Repo](https://github.com/r94o/smartini) | Cocktail Recipe Finder                                       | MongoDB, Express, React, Node, Cypress, Jest, MaterialUI |
 | Koala              | [Live Demo - Heroku](https://koala-acebook.herokuapp.com/)  [Github Repo](https://github.com/r94o/Koala) | Facebook Clone                                               | MongoDB, Express, Handlebars, Node, Cypress, Jest        |
 | MakersBnB          | [Github Repo](https://github.com/r94o/MakersBnB) | AirBnB Clone                                                 | PostgreSQL, Sinatra, ERB                                 |
