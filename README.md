@@ -47,10 +47,6 @@ _Relevant Experience_
 - Mentoring junior members of the team
 
 
-## Skills
-
-TODO
-
 ## Education
 
 #### Makers Academy (February-2022 to May-2022)
