@@ -1,6 +1,6 @@
 ## Rob Oman
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-oman-0a4901188/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-oman)
 
 I've been working in the Energy Industry for the last 6 years however technology has been a part of my life for much longer. I have a passion for productivity and efficiency which has led me to the world of software development where the possibilities are endless.
 
