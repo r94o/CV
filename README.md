@@ -47,6 +47,31 @@ _Relevant Experience_
 - Mentoring junior members of the team
 
 
+## Skills
+
+#### Research/Independent Learning
+During group projects at Makers Academy there were multiple occasions where new technology had to be learnt with little to no guidance.
+Over the course of 3 group projects I took the lead in investigating setting up an ORM (ActiveRecord), CI/CD Pipelines (GitHub Actions) and the deployment of our web app to Heroku.
+
+Initially, I looked at the documentation provided by each of these technologies which can be intimidating to a junior developer. I took the time to research any concepts/terms within this documentation that I didn't understand. 
+
+With this knowledge I then researched examples from Stack Overflow, articles and YouTube to make sure I fully understood the concepts and then implemented into our project.
+
+I made sure to share this knowledge to my team and acted as a resource for any questions going forward.
+
+#### Attention to detail
+A responsibility of my previous role was to identify refund opportunities for my clients where their energy supplier has overcharged them. Some of the supplier errors can be incredibly intricate.
+
+I was reviewing a prospective client's water invoices and noticed one particular charge seemed rather high. This charge is based on the area of land the client occupies (assigned to a band). I was able to calculate the true area of the property through Google Map's satellite view and using this evidence I made a claim to the water supplier. They accepted the error and refunded the customer several thousand pounds and also reduced the charge going forward.
+
+This was a key factor in the company becoming a client of ours.
+
+#### Working to deadlines
+Another responsibility of my previous role was to tender my clients electricity, gas and water supplies to all relevant energy suppliers. This process is very time consuming, involving negotiating with suppliers and collating all pricing information to present to clients on the same day.
+
+Due to the live nature of the energy market, contract offers are only valid for the day they are generated. It was crucial that I was organised in my approach to deliver on the expectations set by the client and to provide the most value during our meetings.
+
+
 ## Education
 
 #### Makers Academy (February-2022 to May-2022)
