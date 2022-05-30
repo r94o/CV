@@ -2,15 +2,15 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-oman)
 
-I've been working in the Energy Industry for the last 6 years however technology has been a part of my life for much longer. I have a passion for productivity and efficiency which has led me to the world of software development where the possibilities are endless.
+I've been working in the Energy Industry for the last six years however technology has been a part of my life for much longer. I have a passion for productivity and efficiency and this had led me to the world of software development where the possibilities are endless.
 
-In my own time, I learnt how to automate parts of my job and my interest spiralled from there. I came to the realisation that I enjoy coding far more than my job itself and decided to apply to a selective bootcamp, Makers Academy.
+Starting with the goal of automating parts of my job, I have developed several Python scripts to benefit myself and colleagues - ultimately saving around 1.5 hours per day. 
 
-I have now graduated and have learnt more than I could have ever imagined. I can't wait to put my knowledge into practice and make a difference within a company from day 1.
+The satisfaction of using technology to solve real world problems and increase efficiency was too great to ignore. I knew this was the career path for me so I made the decision to apply to a selective software engineering bootcamp, Makers Academy. I have learned so much through this experience and it has only increased my desire to be in the industry. 
 
-I believe the best way to learn is independent research, asking questions and simply getting involved. I care about **how and why** things work, rather than simply that it works. I have a drive to succeed and to produce the best work I can.
+I like to learn through independent research, asking questions and simply getting involved. I care about **how and why** things work, rather than simply that it works.
 
-What excites me about this industry is that it is constantly evolving. There are endless routes that you can take and there is no limit to how much you can learn. I value the openness to sharing knowledge and this is something I definitely want to be a part of.
+The software industry is constantly evolving and there is so much to learn and contribute to. I value the openness in sharing knowledge and it excites me that in the not too distant future I will be able to make an impact both to the company I work for and the wider software engineering community.
 
 
 ## Projects
@@ -35,7 +35,7 @@ customers.
 - Assist client base with analysis of energy consumption data to identify unusual consumption patterns.
 
 _Outside of job role_
-- Proactively developed several Python scripts in my own time that use the Selenium/Requests library to automatically download customer invoices from multiple energy supplier’s portals, sorting each invoice based on priority ready for processing. This has saved the administration team at least 1.5 hours per day.
+- Proactively developed several Python scripts in my own time that use the Selenium/Requests library to automatically download customer invoices from multiple energy supplier’s portals, sorting each invoice based on priority ready for processing.
 - Developed several tools to aid productivity in my own role mainly based around extracting data from websites/API’s automatically and extracting text from PDF documents.
 
 
@@ -45,17 +45,18 @@ _Senior Assistance Resolution Co-Ordinator October 2015 – April 2016_
 _Relevant Experience_
 - Creating VBA Macros to assist with reporting assistance case summaries to management.
 - Mentoring junior members of the team
-
+- 
 
 ## Skills
 
 #### Research/Independent Learning
-During group projects at Makers Academy there were multiple occasions where new technology had to be learnt with little to no guidance.
+During group projects at Makers Academy there were multiple occasions where there was an opportunity to learn new technology with little to no guidance.
+
 Over the course of 3 group projects I took the lead in investigating setting up an ORM (ActiveRecord), CI/CD Pipelines (GitHub Actions) and the deployment of our web app to Heroku.
 
 Initially, I looked at the documentation provided by each of these technologies which can be intimidating to a junior developer. I took the time to research any concepts/terms within this documentation that I didn't understand. 
 
-With this knowledge I then researched examples from Stack Overflow, articles and YouTube to make sure I fully understood the concepts and then implemented into our project.
+With this knowledge I then researched examples to make sure I fully understood the concepts and then implemented these into our project.
 
 I made sure to share this knowledge to my team and acted as a resource for any questions going forward.
 
@@ -67,9 +68,10 @@ I was reviewing a prospective client's water invoices and noticed one particular
 This was a key factor in the company becoming a client of ours.
 
 #### Working to deadlines
-Another responsibility of my previous role was to tender my clients electricity, gas and water supplies to all relevant energy suppliers. This process is very time consuming, involving negotiating with suppliers and collating all pricing information to present to clients on the same day.
+Another responsibility of my previous role was to tender my client's electricity, gas and water supplies to all relevant energy suppliers. This process is very time consuming, involving negotiating with suppliers and collating all pricing information to present to clients.
 
 Due to the live nature of the energy market, contract offers are only valid for the day they are generated. It was crucial that I was organised in my approach to deliver on the expectations set by the client and to provide the most value during our meetings.
+
 
 
 ## Education
