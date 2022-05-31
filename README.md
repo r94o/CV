@@ -45,18 +45,17 @@ _Senior Assistance Resolution Co-Ordinator October 2015 – April 2016_
 _Relevant Experience_
 - Creating VBA Macros to assist with reporting assistance case summaries to management.
 - Mentoring junior members of the team
-- 
 
 ## Skills
 
 #### Research/Independent Learning
-During group projects at Makers Academy there were multiple occasions where there was an opportunity to learn new technology with little to no guidance.
+During group projects at Makers Academy there were multiple opportunities to learn new technology with little to no guidance.
 
-Over the course of 3 group projects I took the lead in investigating setting up an ORM (ActiveRecord), CI/CD Pipelines (GitHub Actions) and the deployment of our web app to Heroku.
+Over the course of 3 group projects I took the lead in investigating setting up an ORM (ActiveRecord), CI/CD Pipelines (GitHub Actions) and the deployment of our MERN web app to Heroku.
 
 Initially, I looked at the documentation provided by each of these technologies which can be intimidating to a junior developer. I took the time to research any concepts/terms within this documentation that I didn't understand. 
 
-With this knowledge I then researched examples to make sure I fully understood the concepts and then implemented these into our project.
+With this knowledge I then researched examples to make sure I fully understood the concepts and then implemented these into our project. It is important to me that I understand all the code I am writing.
 
 I made sure to share this knowledge to my team and acted as a resource for any questions going forward.
 
@@ -72,7 +71,7 @@ Another responsibility of my previous role was to tender my client's electricity
 
 Due to the live nature of the energy market, contract offers are only valid for the day they are generated. It was crucial that I was organised in my approach to deliver on the expectations set by the client and to provide the most value during our meetings.
 
-
+At Makers Academy, group projects were usually two weeks long. In order to make sure our apps were robust, we implemented feature freezes two days before the deadline so we could check for any bugs and refactor code where necessary. This gave us confidence in our app while presenting to the rest of the cohort.
 
 ## Education
 
