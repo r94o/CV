@@ -87,6 +87,10 @@ At Makers Academy, group projects were usually two weeks long. In order to make 
 
 - Covered emotional intelligence curriculum (e.g. giving feedback, receiving feedback, teamwork, pairing, empathy.
 
+#### CS50: Introduction to Computer Science
+- 11 week course (part-time) provided by Harvard University, focusing on the fundamentals of computer science using the C programming language. Covering data structures, memory, algorithms and web development.
+
+
 #### Wallington County Grammar School (Finished 2012)
 
 - A Levels - Design & Technology, Mathematics & Physics
